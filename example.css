@@ -191,8 +191,8 @@ header {
 /* Responsive design for smaller screens */
 @media (max-width: 768px) {
     .small-boxes {
-        flex-direction: column; /* Stack small boxes vertically on smaller screens */
-        top: 60%;
+        flex-direction: row; /* Stack small boxes vertically on smaller screens */
+        top: 30%;
     }
 
     .small-box {
