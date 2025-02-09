@@ -192,7 +192,7 @@ header {
 @media (max-width: 768px) {
     .small-boxes {
         flex-direction: row; /* Stack small boxes vertically on smaller screens */
-        top: 20%;
+        top: 10%;
     }
 
     .small-box {
